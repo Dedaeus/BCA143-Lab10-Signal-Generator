@@ -34,7 +34,7 @@
 <img src="https://github.com/user-attachments/assets/f5dff73b-c1e1-48d6-a6c7-207d246e4359" alt="RT-Spark board wiring" width="400"/>
 </p>
 
-<h3>2. Oscilloscope Screen — Busy-Wait Mode</h3>
+<h3>2. Oscilloscope Screen (Busy-Wait Mode)</h3>
 <p>
   25 Hz sine wave output captured during busy-wait playback. The waveform
   immediately flatlines upon pressing SW1, demonstrating how blocking the main
@@ -45,7 +45,7 @@
 <img src="https://github.com/user-attachments/assets/361cc6b7-e3a8-416c-a1e6-a91b1d0f8e8f" alt="Oscilloscope busy-wait mode" width="400"/>
 </p>
 
-<h3>3. Oscilloscope Screen — Interrupt-Driven Mode</h3>
+<h3>3. Oscilloscope Screen (Interrupt-Driven Mode)</h3>
 <p>
   25 Hz sine wave output captured during interrupt-driven playback. The waveform
   continues for approximately 10 ms after pressing SW1 before stopping, showing
